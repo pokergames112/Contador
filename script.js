@@ -1,6 +1,6 @@
 function contar(){
     let ini = document.getElementById('txti')
-    let fim = document.getAnimations('txtf')
+    let fim = document.getElementById('txtf')
     let passo = document.getElementById('txtp')
     let res = document.getElementById('res')
 
